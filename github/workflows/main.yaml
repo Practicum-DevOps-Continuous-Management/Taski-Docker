@@ -1,0 +1,23 @@
+taski-docker
+├── .github
+│   └── workflows
+├── .gitignore
+├── LICENSE
+├── README.md
+├── backend
+│   ├── .env
+│   ├── Dockerfile
+│   ├── api
+│   ├── backend
+│   ├── manage.py
+│   └── requirements.txt
+├── frontend
+│   ├── .dockerignore
+│   ├── .gitignore
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   └── src
+└── setup.cfg
